@@ -1,0 +1,176 @@
+{
+  "name": "YumekoBot",
+  "description": "A Telegram bot with music, APIs, and utility features.",
+  "repository": "https://github.com/Your_Git_Username/Yumeko",
+  "keywords": ["telegram", "bot", "python", "pyrogram", "music"],
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID from my.telegram.org",
+      "value": "0"
+    },
+    "API_HASH": {
+      "description": "Your Telegram API HASH from my.telegram.org",
+      "value": "0"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token from BotFather",
+      "value": "0:0-0"
+    },
+    "BOT_NAME": {
+      "description": "Name of your bot",
+      "value": "Your_Bot_Name"
+    },
+    "BOT_USERNAME": {
+      "description": "Username of your bot (without @)",
+      "value": "Your_Bot_Username"
+    },
+    "BOT_ID": {
+      "description": "Numeric bot ID",
+      "value": "0"
+    },
+    "WORKERS": {
+      "description": "Number of workers",
+      "value": "30"
+    },
+    "MAX_MESSAGE_CACHE_SIZE": {
+      "description": "Maximum cache size for messages",
+      "value": "100"
+    },
+    "MAX_CONCURRENT_TRANSMISSIONS": {
+      "description": "Max concurrent transmissions",
+      "value": "10"
+    },
+
+    "GIT_USERNAME": {
+      "description": "Your GitHub username",
+      "value": "Your_Git_Username"
+    },
+    "GIT_URL_WITH_TOKEN": {
+      "description": "GitHub repo URL with access token",
+      "value": "https://Your_Git_Token@github.com/Your_Git_Username/Yumeko.git"
+    },
+
+    "BOT_VERSION": {
+      "description": "Bot version",
+      "value": "x"
+    },
+    "OWNER_ID": {
+      "description": "Telegram ID of the owner",
+      "value": "5630057244"
+    },
+    "OWNER_USERNAME": {
+      "description": "Username of the owner",
+      "value": "senpaiii10"
+    },
+    "SUPPORT_CHAT": {
+      "description": "Support group/chat ID",
+      "value": "-1002069412308"
+    },
+    "SUPPORT_CHAT_USERNAME": {
+      "description": "Support chat username",
+      "value": "Domihoes"
+    },
+    "SUPPORT_CHAT_LINK": {
+      "description": "Support group link",
+      "value": "https://t.me/Domihoes"
+    },
+    "LOG_CHANNEL": {
+      "description": "Log channel ID",
+      "value": "-1001625036774"
+    },
+    "ERROR_LOG_CHANNEL": {
+      "description": "Error log channel ID",
+      "value": "-1001625036774"
+    },
+    "DOWNLOAD_LOCATION": {
+      "description": "Download location for files",
+      "value": "./downloads"
+    },
+    "COMMAND_PREFIXES": {
+      "description": "Command prefixes",
+      "value": "/ , ! , . , # , $ , % , & , ?"
+    },
+    "CMD_STARTERS": {
+      "description": "Command starter characters",
+      "value": "/.!&#%$"
+    },
+    "STATS_IMG_URL": {
+      "description": "Image for stats",
+      "value": "https://files.catbox.moe/d69tm0.jpg"
+    },
+    "START_IMG_URL": {
+      "description": "Start command image",
+      "value": "https://files.catbox.moe/wybrme.jpg"
+    },
+    "HELP_IMG_URL": {
+      "description": "Help command image",
+      "value": "https://files.catbox.moe/j3tdbi.jpg"
+    },
+    "ALIVE_IMG_URL": {
+      "description": "Alive command image",
+      "value": "https://files.catbox.moe/w4t9cj.jpg"
+    },
+
+    "MONGODB_URI": {
+      "description": "MongoDB connection URI",
+      "value": "mongodb://localhost:27017"
+    },
+    "DATABASE_NAME": {
+      "description": "MongoDB database name",
+      "value": "Frieren"
+    },
+
+    "ARQ_API_KEY": {
+      "description": "ARQ API Key",
+      "value": "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
+    },
+    "ARQ_API_URL": {
+      "description": "ARQ API URL",
+      "value": "arq.hamker.dev"
+    },
+    "CRICKET_API_URL": {
+      "description": "Cricket API endpoint",
+      "value": "https://sugoi-api.vercel.app/cricket"
+    },
+    "FOOTBALL_API_URL": {
+      "description": "Football API endpoint",
+      "value": "https://sugoi-api.vercel.app/football"
+    },
+    "BINGSEARCH_URL": {
+      "description": "Bing search API",
+      "value": "https://sugoi-api.vercel.app/search"
+    },
+    "NEWS_URL": {
+      "description": "News API endpoint",
+      "value": "https://sugoi-api.vercel.app/news?keyword={}"
+    },
+    "SHAYRI_API_URL": {
+      "description": "Shayari API endpoint",
+      "value": "https://hindi-quotes.vercel.app/random"
+    },
+    "BASE_URL": {
+      "description": "Base URL for waifu.pics",
+      "value": "https://api.waifu.pics"
+    },
+    "MOVIE_API": {
+      "description": "Movie API key",
+      "value": "5d3274c3bb08b4276482436c8444abc0"
+    },
+    "MOVIE_RAC": {
+      "description": "Movie API token",
+      "value": "eyJhbGciOiJIUzI1NiJ9..."
+    },
+    "POKEDEX": {
+      "description": "Pokédex API endpoint",
+      "value": "https://sugoi-api.vercel.app/pokemon?name={name_or_id}"
+    },
+    "OPENAI_KEY": {
+      "description": "Your OpenAI API Key",
+      "value": "xx"
+    },
+    "LYRICS_GENIUS_TOKEN": {
+      "description": "Lyrics Genius API token",
+      "value": "x-x"
+    }
+  }
+}
