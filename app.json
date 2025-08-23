@@ -1,7 +1,7 @@
 {
   "name": "YumekoBot",
   "description": "A Telegram bot with music, APIs, and utility features.",
-  "repository": "https://github.com/Your_Git_Username/Yumeko",
+  "repository": "https://github.com/Ahad611/NOBARAxIVAN",
   "keywords": ["telegram", "bot", "python", "pyrogram", "music"],
   "env": {
     "API_ID": {
