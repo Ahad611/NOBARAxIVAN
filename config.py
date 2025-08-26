@@ -14,18 +14,18 @@ class config:
      
     #Git
     GIT_USERNAME = "Your_Git_Username"
-    GIT_URL_WITH_TOKEN = "https://Your_Git_Token@github.com/Your_Git_Username/Yumeko.git" 
+    GIT_URL_WITH_TOKEN = "https://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@github.com/Ahad611/Yumeko.git" 
 
 
     #Info
     BOT_VERSION = "x"
-    OWNER_ID = 5630057244
-    OWNER_USERNAME = "senpaiii10"
-    SUPPORT_CHAT = -1002069412308
-    SUPPORT_CHAT_USERNAME = "Domihoes"
-    SUPPORT_CHAT_LINK = "https://t.me/Domihoes"
-    LOG_CHANNEL = -1001625036774
-    ERROR_LOG_CHANNEL = -1001625036774
+    OWNER_ID = 8195241636
+    OWNER_USERNAME = "x9Ahad"
+    SUPPORT_CHAT = -1002847095020
+    SUPPORT_CHAT_USERNAME = "IvanxNisha"
+    SUPPORT_CHAT_LINK = "https://t.me/IvanxNisha"
+    LOG_CHANNEL = -1002847095020
+    ERROR_LOG_CHANNEL = -1002847095020
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
