@@ -1,8 +1,8 @@
 class config:
     
     #Client
-    API_ID = 0
-    API_HASH = "0"
+    API_ID = 22657083
+    API_HASH = "d6186691704bd901bdab275ceaab88f3"
     BOT_TOKEN = "0:0-0"
     BOT_NAME = "Your_Bot_Name"
     BOT_USERNAME = "Your_Bot_Username"
