@@ -160,6 +160,10 @@
       "description": "Movie API token",
       "value": "eyJhbGciOiJIUzI1NiJ9..."
     },
+    "STRING_SESSION": {
+      "description": "BSDK KHI SAI BHI LELE AUR YHA GAND MRALE",
+      "value": "0"
+    },
     "POKEDEX": {
       "description": "Pokédex API endpoint",
       "value": "https://sugoi-api.vercel.app/pokemon?name={name_or_id}"
